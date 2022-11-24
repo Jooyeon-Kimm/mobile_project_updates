@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/translationMenu"
+        android:title="TRANSLATION"
+        android:icon="@drawable/ic_free_icon_translation_5186714"/>
+
+    <item
+        android:id="@+id/subwayMenu"
+        android:title="SUBWAY"
+        android:icon="@drawable/ic_free_icon_metro_1733661"/>
+
+    <item
+        android:id="@+id/mapMenu"
+        android:title="MAP"
+        android:icon="@drawable/ic_free_icon_map_3228423"/>
+
+
+    <item
+        android:id="@+id/stampMenu"
+        android:title="STAMP"
+        android:icon="@drawable/ic_free_icon_stamp_3891918"/>
+
+</menu>

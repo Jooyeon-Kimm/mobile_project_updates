@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">maps</string>
+    <string name="MY_API_KEY">AIzaSyCPd22-Nf9iwC53yXrLVY230-WvVqNCMqE</string>
+    <string name="hello_rec_fragment">HI REC FRAG</string>
+
+    <string name="hello_translation_fragment">Hello translation fragment</string>
+    <string name="hello_subway_fragment">Hello subway fragment</string>
+    <string name="hello_map_fragment">Hello map fragment</string>
+    <string name="hello_stamp_fragment">Hello stamp fragment</string>
+
+    <string name="toolbar_map">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMAP</string>
+
+</resources>
